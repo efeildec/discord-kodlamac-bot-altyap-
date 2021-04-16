@@ -102,4 +102,4 @@ msg.reply
   }
 });
 
-client.login('NzcwOTQxODQzOTkwNTExNjE3.X5k5iw._TGqrcjhxQ58Hy1nzNDu_wmQ41U');
+client.login('Token');
